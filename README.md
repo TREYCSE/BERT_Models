@@ -6,22 +6,21 @@
 ### How Will it Accomplish this Mission?
 ##### Well, just like real-world detention, students have free-reign over what they are learning - which means they can explore topics that maybe they weren't even being exposed to, or even study materials to help for when they go back to the regular classroom!
 
+#### ToolKit!
+###### Full Stack Application:
+1. Django REST Framework
+2. Python (for developers)
+
+###### Machine Learning Algorithms:
+1. TensorFlow: used for Search Engine
+
+###### Integration Tools:
+1. 
+
 ## Milestones for Virtual Detention expansion! How far could this project go?
-### Phase 1:
+#### Phase 1:
 1. pages based on topics
 2. create user account/authentication & save progress
 3. search engine to sort through all free materials available and render it to the website.
 
-### Phase 2:
-
-
-### ToolKit!
-##### Full Stack Application:
-1. Django REST Framework
-2. Python (for developers)
-
-##### Machine Learning Algorithms:
-1. TensorFlow: used for Search Engine
-
-##### Integration Tools:
-1. 
+#### Phase 2:
