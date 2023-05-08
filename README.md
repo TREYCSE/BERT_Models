@@ -7,4 +7,6 @@ rendering 3rd party API - using one source with no ticket limits, no auth requir
 Logistic Regression for Natural Language Question Answering
 
 #### ToolKit!
-Integration Tools:
+###### Full Stack Application:
+1. TensorFlow REST Framework
+2. TensorFlowLite w/ BERT for Natural Language Question Answering: Answer questions based off content of a given passage, keeping API rendered, but adding a virtual tutor once ML algorithms with BERT complete and integrated with app!
