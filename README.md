@@ -42,10 +42,9 @@ BERT Question and Answer: https://www.tensorflow.org/lite/examples/bert_qa/overv
 ##### TensorFlow lite Metadata
 
 ### Stack Overflow Additional Resources
-##### metadata: https://stackoverflow.com/questions/37374454/machine-learning-tensorflow-sklearn-in-django
-##### Django for TensorFlow: https://stackoverflow.com/questions/61438217/how-to-install-tensorflow-for-django-applications
-##### How to put ML apps into production: https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/
-https://stackoverflow.com/questions/37374454/machine-learning-tensorflow-sklearn-in-django
+1. metadata: https://stackoverflow.com/questions/37374454/machine-learning-tensorflow-sklearn-in-django
+2. Django for TensorFlow: https://stackoverflow.com/questions/61438217/how-to-install-tensorflow-for-django-applications
+3. How to put ML apps into production: https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/
 
 
 
