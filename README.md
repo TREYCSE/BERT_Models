@@ -41,6 +41,13 @@ BERT Question and Answer: https://www.tensorflow.org/lite/examples/bert_qa/overv
 ##### Pre-trained TensorFlow.js models: https://github.com/tensorflow/tfjs-models
 ##### TensorFlow lite Metadata
 
+### Stack Overflow Additional Resources
+##### metadata: https://stackoverflow.com/questions/37374454/machine-learning-tensorflow-sklearn-in-django
+##### Django for TensorFlow: https://stackoverflow.com/questions/61438217/how-to-install-tensorflow-for-django-applications
+##### How to put ML apps into production: https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/
+https://stackoverflow.com/questions/37374454/machine-learning-tensorflow-sklearn-in-django
+
+
 
 
 
