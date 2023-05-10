@@ -24,7 +24,7 @@ https://www.tensorflow.org/lite/models/convert/metadata#read_the_metadata_from_m
 ##### TensorFlow lite w/ C++
 Metadata: https://central.sonatype.com/artifact/org.tensorflow/tensorflow-lite-metadata/0.4.3
 Models
-BERT Question and Answer: https://www.tensorflow.org/lite/examples/bert_qa/overview
+BERT Question and Answer: https://www.tensorflow.org/lite/examples/bert_qa/overview , https://github.com/google-research/bert
 
 ### TENSORFLOW MACHINE LEARNING MODELS + METADATA
 ##### Tensorflow Models
