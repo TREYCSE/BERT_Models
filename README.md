@@ -5,6 +5,11 @@
 2. TensorFlowLite w/ BERT for Natural Language Question Answering: Answer questions based off content of a given passage, serving as a virtual tutor once ML algorithms with BERT complete deployed as RESTful API, can then integrate with React/Node.js frontend!
 
 ## TOOL BOX w / resources
+##### summ:
+using RESTful api with javascript NOT fastapi with python
+using Express, Node, frontend and & Mongo backend? create question return to user and save to my database JSON file
+frontend user creating question - databses
+
 ## ENVIRONMENT
 ##### ML Hardware: (optional - for metadata)
 ##### Coral: USB accelerator set up guide: https://coral.ai/docs/accelerator/get-started/ & https://coral.ai/docs/accelerator/datasheet/
@@ -25,6 +30,7 @@ https://www.tensorflow.org/lite/models/convert/metadata#read_the_metadata_from_m
 Metadata: https://central.sonatype.com/artifact/org.tensorflow/tensorflow-lite-metadata/0.4.3
 Models
 BERT Question and Answer: https://www.tensorflow.org/lite/examples/bert_qa/overview , https://github.com/google-research/bert
+### CRUD: Create Read Update Delete
 
 ### TENSORFLOW MACHINE LEARNING MODELS + METADATA
 ##### Tensorflow Models
