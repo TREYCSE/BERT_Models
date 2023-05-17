@@ -18,18 +18,9 @@ frontend user creating question - databses
 ##### Docker - Containerize: https://docs.docker.com/get-started/02_our_app/
 ##### https://www.mlq.ai/django-machine-learning/
 
-### TENSORFLOW RESTful API
-##### TensorFlow Models: python fastAPI
-##### API
-##### Serving Systems:
-https://github.com/tensorflow/serving
-https://www.tensorflow.org/tfx/serving/api_rest#example
-https://www.tensorflow.org/lite/inference_with_metadata/task_library/overview
-https://www.tensorflow.org/lite/models/convert/metadata#read_the_metadata_from_models
-##### TensorFlow lite w/ C++
-Metadata: https://central.sonatype.com/artifact/org.tensorflow/tensorflow-lite-metadata/0.4.3
-Models
-BERT Question and Answer: https://www.tensorflow.org/lite/examples/bert_qa/overview , https://github.com/google-research/bert
+### API Documentation
+
+
 ### CRUD: Create Read Update Delete
 
 ### TENSORFLOW MACHINE LEARNING MODELS + METADATA
