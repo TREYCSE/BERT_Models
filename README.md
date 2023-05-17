@@ -6,8 +6,8 @@
 
 ## TOOL BOX w / resources
 ##### summ:
-using RESTful api with javascript NOT fastapi with python
-using Express, Node, frontend and & Mongo backend? create question return to user and save to my database JSON file
+Typescript TensorFlow models converted to js and deployed as JSON RESTful API to render output to the frontend
+using Express, Node, frontend and & Mongo backend?
 frontend user creating question - databses
 
 ## ENVIRONMENT
@@ -39,6 +39,9 @@ BERT Question and Answer: https://www.tensorflow.org/lite/examples/bert_qa/overv
 ##### Example: https://github.com/tensorflow/examples/tree/master/lite/examples/bert_qa/ios
 ##### Pre-trained TensorFlow.js models: https://github.com/tensorflow/tfjs-models
 ##### TensorFlow lite Metadata
+
+## CRUD
+create question return to user and save to my database JSON file
 
 ### Stack Overflow Additional Resources
 1. metadata: https://stackoverflow.com/questions/37374454/machine-learning-tensorflow-sklearn-in-django
