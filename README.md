@@ -10,8 +10,7 @@ using Tensorflow & javascript backend, with React.js & Node.js frontend.]
 ##### https://www.mlq.ai/django-machine-learning/
 
 ### SERVER - Tensorflow.js Backend CPU
-#### Usage
-##### This package implements a JavaScript based CPU backend to TensorFlow.js.
+#### Usage - This package implements a JavaScript based CPU backend to TensorFlow.js.
 
 #### Importing the backend
 ###### Note: this backend is included by default in @tensorflow/tfjs.
