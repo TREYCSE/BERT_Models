@@ -1,13 +1,11 @@
-# Welcome to Virtual Detention - Backend
+# Welcome to Virtual Detention - Backend | Model Functionality + User Data = Developer Data
 
 #### ToolKit Summary [Full Stack Application]:
 1. Full Stack Application: TensorFlow REST Framework
 2. TensorFlow BERT models for Natural Language Question Answering: Answer questions based off content of a given passage, serving as a virtual tutor once ML algorithms with BERT complete deployed as RESTful API, can then integrate with React/Node.js frontend! [Typescript TensorFlow models converted to js [using tensorflow converter] and deployed as JSON RESTful API to render output to the frontend
 using Tensorflow & javascript backend, with React.js & Node.js frontend.]
-
-### Deploying TensorFlow Models as RESTful API 
-##### Docker - Containerize: https://docs.docker.com/get-started/02_our_app/
-##### https://www.mlq.ai/django-machine-learning/
+3. Docker - Containerize: https://docs.docker.com/get-started/02_our_app/
+4. Heroku - Deploying: https://dashboard.heroku.com/apps
 
 ### SERVER - Tensorflow.js Backend CPU
 #### Usage - This package implements a JavaScript based CPU backend to TensorFlow.js.
@@ -21,14 +19,11 @@ using Tensorflow & javascript backend, with React.js & Node.js frontend.]
     // Adds the CPU backend to the global backend registry.
     import '@tensorflow/tfjs-backend-cpu';
 
-### API Documentation
-
-
-
-    
     
 ### CRUD: Storing BERT output as new JSON file
 ###### later user authentication will allow account creating and saving answers to profile
+### API Documentation
+
 
 ### TensorFlow BERT Machine Learning Resources
     1. Tensorflow Models
@@ -36,7 +31,4 @@ using Tensorflow & javascript backend, with React.js & Node.js frontend.]
     3. BERT: https://arxiv.org/abs/1810.04805 , GH: https://github.com/google-research/bert
     4. Example: https://github.com/tensorflow/examples/tree/master/lite/examples/bert_qa/ios
     5. Pre-trained TensorFlow.js models: https://github.com/tensorflow/tfjs-models
-
-
-
 
