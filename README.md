@@ -1,4 +1,5 @@
-# Welcome to Virtual Detention - Backend | Model Functionality + User Data = Developer Data
+# Welcome to Virtual Detention
+### Backend | Model Functionality + User Data = Developer Data
 
 #### ToolKit Summary [Full Stack Application]:
 1. Full Stack Application: TensorFlow REST Framework
