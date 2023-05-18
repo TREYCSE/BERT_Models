@@ -8,7 +8,7 @@ using Tensorflow & javascript backend, with React.js & Node.js frontend.]
 3. Docker - Containerize: https://docs.docker.com/get-started/02_our_app/
 4. Heroku - Deploying: https://dashboard.heroku.com/apps
 
-### SERVER - Tensorflow.js Backend CPU
+### SERVER; Tensorflow.js Backend CPU
 #### Usage - This package implements a JavaScript based CPU backend to TensorFlow.js.
 ###### https://github.com/tensorflow/tfjs/tree/80a809108ca3c3976acaf5e03af709eb39472a5c/tfjs-backend-cpu
 #### Importing the backend
