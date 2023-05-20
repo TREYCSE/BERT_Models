@@ -3,6 +3,7 @@
 ##### Used Tensorflowcpu pure js backend in my React app which doesn't add much functionality for things like data storage.
 ##### With TensorFlow Serving, a widely used package, I would have more power on the backend server and will operate CRUD to store the predictions from the model and be able to fine tune it as well as possibly integrate more as it is a high-level service.
 ##### This also means instead of importing the BERT model, I will be using the TensorFlow SavedModel method which uses the @tensorflow-converter to convert the saved model to Tensorflow.js.
+###### https://github.com/tensorflow/tfjs/tree/master/tfjs-converter , https://www.tensorflow.org/js/guide/conversion
 ###### Note: Depending on which type of model you’re trying to convert, you’ll need to pass different arguments to the converter. For example, let’s say you have saved a Keras model named model.h5 to your tmp/ directory. To convert your model using the TensorFlow.js converter, you can run the following command:
 
     $ tensorflowjs_converter --input_format=keras /tmp/model.h5 /tmp/tfjs_model
