@@ -1,4 +1,4 @@
-# Welcome to Virtual Detention | Phase 2 | TensorFlow Serving + SavedModel Comverter
+# Welcome to Virtual Detention | Phase 2 | TensorFlow Serving + SavedModel Converter
 #### What's being changed?
 ##### Used Tensorflowcpu pure js backend in my React app which doesn't add much functionality for things like data storage.
 ##### With TensorFlow Serving, a widely used package, I would have more power on the backend server and will operate CRUD to store the predictions from the model and be able to fine tune it as well as possibly integrate more as it is a high-level service.
